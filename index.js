@@ -8,6 +8,6 @@ class Tree {
   };
 };
 
-class Deciduous {
+class Deciduous extends Tree {
   
 }
